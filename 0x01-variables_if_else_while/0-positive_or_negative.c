@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main-program entry point
- * Return: Always 0
+ * main-program entry point.
+ * Return: 0-no error, non zero vslue if error.
  */
 int main(void)
 {
